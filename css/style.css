@@ -3,8 +3,7 @@
 
 @import url("components/container.css");
 @import url("components/card.css");
-@import url("components/button.css");
-
+@import url("components/btn.css");
 /* --- Fonts --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
